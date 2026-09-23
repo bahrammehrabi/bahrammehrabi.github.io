@@ -1,1 +1,0 @@
-Replace the email and LinkedIn placeholders. Add the real project media in the next stage. Open index.html to preview.
